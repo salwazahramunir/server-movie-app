@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "qwerty123",
+        "role": "Admin",
+        "phoneNumber": "081234567",
+        "address": "Jalan lorem ipsum 8 blok H8 No. 1"
+    },
+    {
+        "id": 2,
+        "username": "staff",
+        "email": "staff@mail.com",
+        "password": "qwerty123",
+        "role": "Staff",
+        "phoneNumber": "081234568",
+        "address": "Jalan lorem ipsum 8 blok H8 No. 2"
+    },
+    {
+        "id": 3,
+        "username": "customer_c3",
+        "email": "customer@mail.com",
+        "password": "qwerty123",
+        "role": "Customer",
+        "phoneNumber": "081234568",
+        "address": "Jalan lorem ipsum 8 blok H8 No. 3"
+    }
+]
